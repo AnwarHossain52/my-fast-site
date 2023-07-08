@@ -1,0 +1,10 @@
+h1{text-align: center;
+background-color: brown;
+display: inline-block;
+color: antiquewhite;
+margin: 0%; 
+padding: 20px;
+border-color: black; border-radius: 10px;
+text-align: center;
+/* text-shadow: 5px; sha; */
+}
